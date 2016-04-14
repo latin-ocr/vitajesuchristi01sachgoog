@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitajesuchristi01sachgoog_0006.png"; bbox 0 0 2757 4413; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 660 1447 722 2633">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 660 1447 722 2633">
+     <span class='ocr_line' id='line_1_1' title="bbox 660 1447 722 2633; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 664 2189 722 2633; x_wconf 84' lang='lat' dir='ltr'>Parisiis.-Apud</span> <span class='ocrx_word' id='word_1_2' title='bbox 663 1753 710 2148; x_wconf 90' lang='lat' dir='ltr'><strong>VICTOREM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 660 1447 705 1708; x_wconf 85' lang='lat' dir='ltr'><strong>PALME.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 909 1135 1885 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 909 1135 1885 1186">
+     <span class='ocr_line' id='line_1_2' title="bbox 909 1135 1885 1186; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 909 1140 1358 1186; x_wconf 88' lang='lat' dir='ltr'><strong>LUDOLPHUS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1410 1139 1505 1182; x_wconf 93' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1554 1135 1885 1182; x_wconf 85' lang='lat' dir='ltr'>SAXONIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 913 4162 1985 4216">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 913 4162 1985 4216">
+     <span class='ocr_line' id='line_1_3' title="bbox 913 4162 1985 4216; baseline -0.025 0"><span class='ocrx_word' id='word_1_7' title='bbox 913 4183 1083 4216; x_wconf 60' lang='lat' dir='ltr'>ANJ‘AE.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1117 4195 1164 4200; x_wconf 77' lang='lat'>...-</span> <span class='ocrx_word' id='word_1_9' title='bbox 1198 4179 1254 4210; x_wconf 49' lang='lat' dir='ltr'>&gt;ix</span> <span class='ocrx_word' id='word_1_10' title='bbox 1288 4177 1307 4208; x_wconf 63' lang='lat' dir='ltr'>&#39;l</span> <span class='ocrx_word' id='word_1_11' title='bbox 1326 4176 1430 4207; x_wconf 46' lang='lat'>&amp;1³15</span> <span class='ocrx_word' id='word_1_12' title='bbox 1467 4173 1597 4206; x_wconf 45' lang='lat' dir='ltr'>Moekk</span> <span class='ocrx_word' id='word_1_13' title='bbox 1638 4162 1985 4198; x_wconf 50' lang='lat' dir='ltr'>uamnwsww.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
